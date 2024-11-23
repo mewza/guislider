@@ -1,3 +1,6 @@
+// GUISlider.h (C) 2024 Dmtiry B
+// Email : subband@protonmail.com
+
 #pragma once
 
 #import <UIKit/UIKit.h>
