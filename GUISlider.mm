@@ -1,8 +1,7 @@
-#import "GUISlider.h"
-#import "GUI.h"
+// GUISlider.mm (C) 2024 Dmtiry B
+// Email : subband@protonmail.com
 
-//∫#include "UIGestureRecognizerInternal.h"
-@class MyVolSlider;
+#import "GUISlider.h"
 
 @implementation GUISlider
 {
